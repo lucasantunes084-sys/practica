@@ -132,7 +132,7 @@ fun PantallaFotos(navController: NavHostController) {
                     }
                 }
 
-                // Indicadores de puntos (Dots)
+                // Indicadores de puntos (Dots)m
                 Row(
                     Modifier
                         .height(50.dp)
