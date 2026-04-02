@@ -1,0 +1,9 @@
+com.example.core-pngs-0 C:\practica\core\build\generated\res\pngs\debug
+com.example.core-resValues-1 C:\practica\core\build\generated\res\resValues\debug
+com.example.core-updated_navigation_xml-2 C:\practica\core\build\generated\updated_navigation_xml\debug
+com.example.core-mergeDebugResources-3 C:\practica\core\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.core-mergeDebugResources-4 C:\practica\core\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.core-debug-5 C:\practica\core\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.core-debug-6 C:\practica\core\build\intermediates\packaged_res\debug\packageDebugResources
+com.example.core-debug-7 C:\practica\core\src\debug\res
+com.example.core-main-8 C:\practica\core\src\main\res

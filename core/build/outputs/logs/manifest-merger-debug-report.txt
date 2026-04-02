@@ -1,0 +1,15 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\practica\core\src\main\AndroidManifest.xml:1:1-40
+INJECTED from C:\practica\core\src\main\AndroidManifest.xml:1:1-40
+	package
+		ADDED from C:\practica\core\src\main\AndroidManifest.xml:1:11-37
+		INJECTED from C:\practica\core\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from C:\practica\core\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\practica\core\src\main\AndroidManifest.xml
+INJECTED from C:\practica\core\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\practica\core\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\practica\core\src\main\AndroidManifest.xml
