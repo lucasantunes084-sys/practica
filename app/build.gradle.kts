@@ -40,6 +40,13 @@ android {
 }
 
 dependencies {
+
+        implementation("androidx.media3:media3-exoplayer:1.3.1")
+        implementation("androidx.media3:media3-ui:1.3.1")
+        implementation("androidx.biometric:biometric:1.2.0-alpha05")
+    implementation("androidx.media3:media3-exoplayer:1.3.0")
+    implementation("androidx.media3:media3-ui:1.3.0")
+    implementation("androidx.biometric:biometric:1.2.0-alpha05")
     implementation("androidx.biometric:biometric:1.2.0-alpha05")
     implementation("androidx.navigation:navigation-compose:2.7.7")
     implementation(libs.androidx.core.ktx)
@@ -59,4 +66,19 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     implementation("io.coil-kt:coil-compose:2.4.0")
     implementation("io.coil-kt:coil-gif:2.4.0")
+    dependencies {
+        // ... otras librerías que ya tengas ...
+
+        // LIBRERÍAS DE VIDEO (Media3) - ESTO QUITA LOS ERRORES DE "media3" y "ExoPlayer"
+        implementation("androidx.media3:media3-exoplayer:1.3.1")
+        implementation("androidx.media3:media3-ui:1.3.1")
+        implementation("androidx.media3:media3-common:1.3.1")
+
+        // LIBRERÍA DE BIOMETRÍA - ESTO QUITA LOS ERRORES DE "BiometricManager"
+        implementation("androidx.biometric:biometric:1.2.0-alpha05")
+
+        // NAVEGACIÓN Y COMPOSE
+        implementation("androidx.navigation:navigation-compose:2.7.7")
+
+    }
 }
